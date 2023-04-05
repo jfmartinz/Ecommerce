@@ -32,7 +32,7 @@ This is a simple E-Commerce website built with HTML, CSS, and Bootstrap. The web
 
 ## Contact
 If you have any questions or feedback, please feel free to contact me. I would love to hear from you! 
-I want a online friend who loves to code, and to collaborate mostyl in software development and web dev.
+I want a someone to collaborate mostyl in software development and web dev.
 
 I am beginner in this field, so yeah. THANK YOUUUUUUUUU!
 
