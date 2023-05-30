@@ -26,7 +26,9 @@ This project is inspired by a website that serves as a platform for practicing B
 During the development process of this E-Commerce website, I encountered several challenges and struggled with various aspects of the project. These struggles provided valuable learning opportunities and helped me enhance my skills as a web developer. Some of the major challenges I faced include:
 
 - **Maintaining Clean HTML Code:** Integrating Bootstrap within the HTML codebase posed a challenge in terms of code cleanliness. The structure of the HTML file became complex, and it was challenging to keep the code organized and readable. To overcome this, I made use of comments and indentation to make the code more maintainable and easier to understand.
+
 - **Implementing Responsiveness:** Creating a responsive design that worked seamlessly across different screen sizes proved to be a significant challenge. It took me more than 10 days to complete the responsiveness implementation for the 4 to 5 pages of the website. Ensuring that the website looked and functioned well on various devices required careful consideration of breakpoints, media queries, and layout adjustments.
+
 - **Bootstrap Structure and Styling:** I struggle with understanding how to structure my HTML elements using Bootstrap's grid system. Dividing the layout into rows and columns seems straightforward at first, but aligning and nesting these elements to achieve the desired design can be confusing for me. 
 
 During the process of creating a clone using HTML, CSS, and Bootstrap, I gained valuable insights and learnings that significantly enhanced my development skills. Here are some of the key takeaways from this project:
@@ -43,7 +45,9 @@ During the process of creating a clone using HTML, CSS, and Bootstrap, I gained 
 ## Conclusion
 Developing this Clone E-Commerce website was a valuable learning experience that allowed me to apply my HTML, CSS, and Bootstrap skills. Despite the challenges I faced, such as maintaining clean code and implementing responsiveness, I successfully completed the project. Through this project, I gained practical knowledge in structuring HTML code with Bootstrap, ensuring readability through comments and indentation. Additionally, I acquired a deeper understanding of responsive design principles and the importance of catering to different device sizes.
 
-Overall, this project strengthened my abilities as a web developer and provided me with a solid foundation of Bootstrap. And I'm improving myself to become a better developer by consistently practicing and building real-life projects. I hope you find value in this project, and happy coding! 🚀
+Overall, this project strengthened my abilities as a web developer and provided me with a solid foundation of Bootstrap. And I'm improving myself to become a better developer by consistently practicing and building real-life projects. 
+
+I hope you find value in this project, and happy coding! 🚀
 
 
 
